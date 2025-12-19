@@ -1,12 +1,12 @@
-# 📊 Sales & Employee Performance Analysis (Excel)
+# Sales & Employee Performance Analysis (Excel)
 
-## 📌 Project Overview
+##  Project Overview
 This project presents an *Excel-based Sales and Employee Performance Analysis Dashboard* designed to evaluate sales trends and employee contribution.  
 The dashboard provides clear insights using formulas and charts to support business decision-making.
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 The objective of this project is to:
 - Analyze employee sales performance
 - Compare sales across departments and regions
@@ -16,14 +16,14 @@ The objective of this project is to:
 
 ---
 
-## 📂 Files Included
+## Files Included
 | Sales_Employee_Performance.xlsx | Main Excel dashboard file |
 | screenshots/ | Dashboard and chart screenshots |
 | README.md | Project documentation |
 
 ---
 
-## 📊 Key Dashboard Metrics
+## Key Dashboard Metrics
 - Total Employees  
 - Total Sales Amount  
 - Department-wise Sales  
@@ -42,7 +42,7 @@ The objective of this project is to:
 
 ---
 
-## 📈 Dashboard Features
+##  Dashboard Features
 - Clean and structured Excel dashboard layout  
 - Formula-driven analysis (No Pivot Tables)  
 - Dynamic updates when new data is added  
@@ -50,7 +50,7 @@ The objective of this project is to:
 
 ---
 
-## 🧠 Insights Generated
+##  Insights Generated
 - Identified top-performing departments  
 - Compared sales contribution by gender and region  
 - Analyzed month-wise sales growth trends  
@@ -58,7 +58,7 @@ The objective of this project is to:
 
 ---
 
-## 🚀 How to Use
+##  How to Use
 1. Download the Excel file  
 2. Open it in Microsoft Excel (2010 or above)  
 3. Navigate through individual analysis sheets  
@@ -66,7 +66,7 @@ The objective of this project is to:
 
 ---
 
-## 🎓 Learning Outcome
+## Learning Outcome
 - Hands-on experience with Excel data analysis  
 - Improved skills in business reporting and dashboards  
 - Practical understanding of formula-based aggregation
